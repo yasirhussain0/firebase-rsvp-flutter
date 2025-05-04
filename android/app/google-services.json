@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "616226107327",
+    "project_id": "fluttermeetupapp",
+    "storage_bucket": "fluttermeetupapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:616226107327:android:487535c75e79f8ee41fb0a",
+        "android_client_info": {
+          "package_name": "com.example.gtk_flutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWobyCP4cu3J_I9krgAMB_Z6LX5Xh2Mz8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
